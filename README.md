@@ -6,7 +6,7 @@ A simple command-line calculator built in python to perform basin arithemetic op
 👨🏻‍💻User input:enter your own numbers
 🔁Loop support:perform multiple operations
 ⚡Fast output:runs instantly in terminals
-📚 Beginner freindly:clear & easy to follow logic
+📚Beginner freindly:clear & easy to follow logic
 **BASIC OPERATIONS**
 1.ADDITION(SUM)
 2.MULTIPLICATION
@@ -20,7 +20,7 @@ A simple command-line calculator built in python to perform basin arithemetic op
 4.Run
 🌈**IMPROVEMENTS**
 .Error handling
-.advanced options
+.Advanced options
 .GUI Interface
 .Calculation history
 
